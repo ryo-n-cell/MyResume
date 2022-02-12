@@ -189,7 +189,7 @@ SalesForce 上にある既存のデータを使用し toC 向けに公表する�
   <img alt="JavaScript" src="./img/sorena_top.gif" width="50%" />
 </p>
 
-- SORENA（https://sorena-aruaru.com）
+- SORENA（https://sorena-aruaru.com)
 - フロント側ワイヤーフレーム(https://www.figma.com/file/6fPUE9GhPdo7PRx26xH4kb/Sorena_farstView?node-id=0%3A1)
 - GitHub：
   - フロントエンド：https://github.com/ryo-n-cell/aruaruSet
