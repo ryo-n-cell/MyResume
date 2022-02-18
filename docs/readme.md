@@ -92,6 +92,7 @@
   <img alt="Nuxt.sj" src="https://img.shields.io/badge/-Nuxt.js-00b068?style=flat-square&logo=Nuxt.js&logoColor=white" />
  <img alt="node.js" src="https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+   <img alt="TypeORM" src="https://img.shields.io/badge/-TypeORM-4479A1?style=flat-square" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 </p>
