@@ -193,7 +193,7 @@ SalesForce 上にある既存のデータを使用し toC 向けに公表する�
 - フロント側ワイヤーフレーム(https://www.figma.com/file/6fPUE9GhPdo7PRx26xH4kb/Sorena_farstView?node-id=0%3A1)
 - GitHub：
   - フロントエンド：https://github.com/ryo-n-cell/aruaruSet
-  - バックエンド：https://github.com/ryo-n-cell/aruaruappAPI
+  - バックエンド：https://github.com/ryo-n-cell/SorenaAPI
 - アプリ紹介記事：https://qiita.com/Ryo-N-cell/items/16b62396eb32b01f5d94
 
 - **環境：**
