@@ -232,7 +232,7 @@ SalesForce 上にある既存のデータを使用し toC 向けに公表する�
 - [フロントエンドエンジニアが知っておくべきデザイン概念【2022年版】](https://qiita.com/Ryo-N-cell/items/6aa693830667c85be86c)
   130LGTM(2022/05/21 現在)
 - [みんなが「それな」と思える事柄を開発業務未経験エンジニアが作ってみた【個人開発】](https://qiita.com/Ryo-N-cell/items/16b62396eb32b01f5d94)
-- [「OOUI を知る」スライド-勉強会用で作成したスライド](https://github.com/ryo-n-cell/MyResume.git)
+- [「OOUI を知る」スライド-勉強会用で作成したスライド](https://docs.google.com/presentation/d/1y16GgclQFY6zOQSfc4ycpsOnWMtjhfcuxqSi9SmfjLA/edit?usp=sharing)
 - [「OOUI を知る」Figma-勉強会用で作成した Figma](https://www.figma.com/file/UYa9HhouzyFvlJcRyKraiU/SORENA%E3%80%80prot?node-id=0%3A1)
 
 ---
