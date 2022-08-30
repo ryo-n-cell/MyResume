@@ -241,7 +241,6 @@ SalesForce 上にある既存のデータを使用し toC 向けに公表する�
 
 <p>
 <a href="https://github.com/ryo-n-cell" target="_blank"><img alt="Github" src="https://img.shields.io/badge/ryo--n--cell-000000.svg?logo=github&style=flat" /></a>
-<a href="https://twitter.com/API_daisuki" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@API__daisuki-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://qiita.com/Ryo-N-cell" target="_blank"><img alt="qiita" src="https://img.shields.io/badge/Ryo--N--cell-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/ryo_nakamu" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo__nakamu-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 <p>
