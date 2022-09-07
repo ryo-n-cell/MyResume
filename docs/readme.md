@@ -161,7 +161,6 @@ SalesForce 上にある既存のデータを使用し toC 向けに公表する�
 - Google Apps script を使用した SES 営業用自動送信メール機能の作成
 - 社内 HP のコーディング（Vue.js+Vuetify）
 - 外部クライアントへ向けた LP サイトの作成（JQuery+BootStrap）
-- SlackAPI を使用したの社内 Bot の作成（進行中）
 - **開発環境：**
   - 自宅での作業
   - VSCode
